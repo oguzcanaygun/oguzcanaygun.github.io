@@ -1,8 +1,8 @@
- body {
+body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  font-color:#40514E;
+  color:#40514E;
 }
 
 h1 {
@@ -43,6 +43,9 @@ a:hover{
 
 p {
   line-height: 2;
+}
+.mountain{
+  margin:0 auto;
 }
 .btn {
   background: #11cdd4;
@@ -119,13 +122,13 @@ p {
   padding-top: 8.2%;
   position: relative;
   margin:0 auto;
+
 }
 
 .top-cloud {
   position: absolute;
   right: 25%;
   top: 8%;
- margin:0 auto;
 }
 
 .bottom-cloud {
