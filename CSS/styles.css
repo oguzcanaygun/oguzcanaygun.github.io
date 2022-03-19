@@ -125,6 +125,7 @@ p {
   position: absolute;
   right: 25%;
   top: 8%;
+ margin:0 auto;
 }
 
 .bottom-cloud {
