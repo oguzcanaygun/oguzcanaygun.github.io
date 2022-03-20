@@ -2,7 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  color:#40514E;
+  color: #40514E;
 }
 
 h1 {
@@ -13,14 +13,16 @@ h1 {
   color: #66BFBF;
   line-height: 2;
 }
-hr{
+
+hr {
   border-style: none;
   border-top-style: dotted;
-  border-color:lightgrey;
-  border-width:0.3125rem;
+  border-color: lightgrey;
+  border-width: 0.3125rem;
   width: 2.5%;
-  margin-top:5rem;
+  margin-top: 5rem;
 }
+
 h2 {
   font-size: 2.5rem;
   color: #66BFBF;
@@ -30,23 +32,27 @@ h2 {
 h3 {
   color: #11999E;
 }
+
 /*margin:1rem 3rem 1rem 3rem;*/
 a {
   color: #11999E;
-  font-family: 'Montserrat',sans-serif;
-  margin:1% 3% 1% 3%;
+  font-family: 'Montserrat', sans-serif;
+  margin: 1% 3% 1% 3%;
   text-decoration: none;
 }
-a:hover{
-  color:#EAF6F6;
+
+a:hover {
+  color: #EAF6F6;
 }
 
 p {
   line-height: 2;
 }
-.mountain{
-  margin:0 auto;
+
+.mountain {
+  margin: 0 auto;
 }
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999E);
@@ -73,59 +79,63 @@ p {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
-.contact-me{
-  margin-top:5rem;
+
+.contact-me {
+  margin-top: 5rem;
 }
-.copyright{
-  color:#EAF6F6;
-  font-size:0.75rem;
-  padding:1.25rem 0;
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 1.25rem 0;
 }
-.webdev{
+
+.webdev {
   width: 25%;
-  float:left;
-  margin-right:2.875%;
+  float: left;
+  margin-right: 2.875%;
 }
-.webdev2{
+
+.webdev2 {
   width: 25%;
-  float:right;
+  float: right;
   margin-left: 2.875%;
 }
+
 .linked {
   position: relative;
-  top: 0.5rem;
   right: 0.25rem;
   width: 3%;
 }
 
 .github {
   position: relative;
-  top: 0.5rem;
   right: 0.25rem;
   width: 3%;
 }
 
 .instagram {
   position: relative;
-  top: 0.5rem;
   right: 0.25rem;
   width: 3%;
 }
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
   overflow: auto;
 }
-.skills{
-  margin-top:5rem;
+
+.skills {
+  margin-top: 5rem;
 }
+
 .top-container {
   background-color: #e4f9f5;
   padding-top: 8.2%;
   position: relative;
-  margin:0 auto;
-
+  margin: 0 auto;
 }
 
 .top-cloud {
@@ -145,12 +155,11 @@ p {
 }
 
 .middle-container {
-  margin-top:6.25rem;
-
+  margin-top: 6.25rem;
 }
 
 .bottom-container {
-  margin-top:5rem;
-  background-color:#88bfbf;
+  margin-top: 5rem;
+  background-color: #88bfbf;
   padding: 3.125rem 0 1.25rem;
 }
