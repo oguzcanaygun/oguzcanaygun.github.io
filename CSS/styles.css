@@ -91,22 +91,25 @@ p {
   float:right;
   margin-left: 2.875%;
 }
-.linked{
-  position:relative;
-  top:0.6rem;
-
-}
-.github{
+.linked {
   position: relative;
-  width: 1%;
+  top: 0.5rem;
   right: 0.25rem;
-  top:0.2rem;
+  width: 3%;
 }
-.instagram{
+
+.github {
   position: relative;
-  width: 1%;
-  top:0.25rem;
-  right:0.25rem;
+  top: 0.5rem;
+  right: 0.25rem;
+  width: 3%;
+}
+
+.instagram {
+  position: relative;
+  top: 0.5rem;
+  right: 0.25rem;
+  width: 3%;
 }
 .skill-row {
   width: 50%;
